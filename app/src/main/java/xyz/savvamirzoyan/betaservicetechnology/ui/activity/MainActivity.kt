@@ -1,7 +1,8 @@
-package xyz.savvamirzoyan.betaservicetechnology
+package xyz.savvamirzoyan.betaservicetechnology.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import xyz.savvamirzoyan.betaservicetechnology.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
